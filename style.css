@@ -3,6 +3,43 @@
   margin-left: 10px;
 }
 
-.nav-item:hover {
-  color: peachpuff;
+.page-contact h3 {
+  font-size: 24px;
+  color: #979797;
+  font-weight: 400;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.page-contact .store-contact {
+  padding: 30px 30px 10px 30px;
+}
+
+.page-contact .contact-keterangan {
+  font-size: 24px;
+  color: #0f0f0f;
+  font-weight: 400;
+  margin-top: 20px;
+  text-align: center;
+}
+
+.page-contact .contact-keterangan h4 {
+  font-size: 32px;
+}
+
+.page-contact .contact-text-libur {
+  font-size: 24px;
+  color: #f30707;
+  text-align: center;
+  font-weight: 400;
+  margin-top: 20px;
+}
+
+.page-contact .card {
+  margin-top: 5px;
+  margin-left: 65px;
+}
+
+.page-contact .card-title {
+  text-align: center;
 }
