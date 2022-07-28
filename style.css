@@ -1,3 +1,8 @@
-.button {
-  background: #073466;
+.nav-item {
+  margin-right: 10px;
+  margin-left: 10px;
+}
+
+.nav-item:hover {
+  color: peachpuff;
 }
